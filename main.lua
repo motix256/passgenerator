@@ -14,7 +14,7 @@ end
 
 print('PassGenerator')
 print('         Gloire à L14, et longue vie au gloirieux L14')
-local prenom    = input("Ton prénom : ")
+local prenom    = input  kevin
 local nom       = input("Ton nom de famille : ")
 local dateNaiss = input("Ta date de naissance (06/12/2000 -> 06122000) : ")
 local gen   = math.random(01, 25)
